@@ -26,7 +26,7 @@ Frontend Frameworks & Libraries
 </h2>
 <div align="center">
   <a href="https://github.com/yousafsabir">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,bootsrtap" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
   </a>
 </div>
 
