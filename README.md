@@ -21,7 +21,7 @@ Languages
 </h2>
 <div align="center">
   <a href="https://github.com/RameshPolubothu">
-    <img src="https://skillicons.dev/icons?i=c,c++,py,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css" />
   </a>
 </div>
 
@@ -31,7 +31,7 @@ Frontend Frameworks & Libraries
 </h2>
 <div align="center">
   <a href="https://github.com/yousafsabir">
-    <img src="https://skillicons.dev/icons?i=react,next,astro,tailwind,sass,mui,redux" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,bootsrtap" />
   </a>
 </div>
 
