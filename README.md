@@ -13,39 +13,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
-<!-- this README is inspired by the great efforts of Umer Ahmad. Shot out to him -->
-<!-- His Github Profile: https://github.com/imumer16 -->
-
-<!-- Typing Widget -->
-<!-- reference = https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Always%20improving%20my%20skills&font=Fira%20Code&center=true&width=440&height=45&color=ff9a0c&vCenter=true&size=26&pause=1000">
-</p>
-
-<!-- Bio -->
-<div align="center">
-  <h4 width=50%>
-  Aspiring Full-Stack Software Engineer who loves to build stuff around the web.
-  </h4>
-</div>
-
-<!-- quote -->
-<!-- reference = https://github.com/PiyushSuthar/github-readme-quotes -->
-<br>
-<hr>
-<br>
-<div align="center">
-  <a href="https://github.com/yousafsabir">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark">
-  </a>
-</div>
-
-<!-- SVG typing for tech stack -->
-<!-- reference = https://github.com/DenverCoder1/readme-typing-svg -->
-<br>
-<hr>
-
-<!-- tech stack -->
 
 <!-- Base Languages -->
 <br>
@@ -53,8 +20,8 @@
 Languages
 </h2>
 <div align="center">
-  <a href="https://github.com/yousafsabir">
-    <img src="https://skillicons.dev/icons?i=ts,py,js,html,css" />
+  <a href="https://github.com/RameshPolubothu">
+    <img src="https://skillicons.dev/icons?i=c,c++,py,js,html,css" />
   </a>
 </div>
 
@@ -74,7 +41,7 @@ Backend Frameworks
 </h2>
 <div align="center">
   <a href="https://github.com/yousafsabir">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nest,fastapi" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
   </a>
 </div>
 
@@ -84,7 +51,7 @@ Databases & ORMS
 </h2>
 <div align="center">
   <a href="https://github.com/yousafsabir">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
   </a>
 </div>
 
@@ -100,11 +67,3 @@ Ops
 
 <br>
 <hr>
-<!-- Social icons section -->
-<h1 align='center'>
-Connect With Me
-</h1>
-<br>
-<p align="center">
-  <a href="https://linkedin.com/in/yousafsabir" target="_blank"><img width="48px" alt="LinkedIn" src="./icons/LinkedIn.png"></a>
-</p>
