@@ -25,9 +25,7 @@ Languages
 Frontend Frameworks & Libraries
 </h2>
 <div align="center">
-  <a href="https://github.com/yousafsabir">
     <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
-  </a>
 </div>
 
 <br>
@@ -35,9 +33,7 @@ Frontend Frameworks & Libraries
 Backend Frameworks
 </h2>
 <div align="center">
-  <a href="https://github.com/yousafsabir">
     <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-  </a>
 </div>
 
 <br>
@@ -45,9 +41,7 @@ Backend Frameworks
 Databases & ORMS
 </h2>
 <div align="center">
-  <a href="https://github.com/yousafsabir">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-  </a>
 </div>
 
 <br>
@@ -55,10 +49,7 @@ Databases & ORMS
 Ops
 </h2>
 <div align="center">
-  <a href="https://github.com/yousafsabir">
     <img src="https://skillicons.dev/icons?i=githubactions,github,vscode" />
-  </a>
 </div>
-
 <br>
 <hr>
